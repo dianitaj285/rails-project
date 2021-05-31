@@ -1,1 +1,1 @@
-Hi Git
+# Rails Project
